@@ -11,3 +11,9 @@ I acknowledge that a failure to abide by NYU Stern Honor Code will result in a f
 
 
 **Project Description**
+
+
+It is hard to quantify Happiness, or rather, it is hard to quantify reasons for happiness. 
+
+"Money cannot buy happiness" is a phrase repeated all over social media. However, locigally speaking, having money allows citizens of a country to purchase, food, water, and shelter, which would not necessarily make someone more happy, but it would help in ensuring that one is not unhappy. This project uses thee World Happiness Report, released annualy to analyze if welath begets happiness.
+Another topic that may affect happiness is education; this project will also explore how education length impacts happines scores
